@@ -1,1 +1,1 @@
-# One-Pixel-Attack-Confidence-Graph
+그래프는 다른 RGB 값을 모두 0, 0, 0으로 시작해서 원하는 RBG 값만 변화시키면서 진행해서, 기존 RGB 값을 유지하면서 하면 결과가 달라질 수 있음
